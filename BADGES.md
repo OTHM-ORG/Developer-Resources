@@ -8,4 +8,4 @@
 
 # Editors
 [![Emacs](http://cvs.savannah.gnu.org/viewvc/*checkout*/emacs/emacs/etc/images/icons/hicolor/scalable/apps/emacs.svg)](https://www.gnu.org/software/emacs/)
-[![Vim](textures/vim_editor.svg)](http://www.vim.org/)
+[![Vim](http://othm-org.github.io/Developer-Resources/images/vim_editor.svg)](http://www.vim.org/)
