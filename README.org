@@ -1,0 +1,11 @@
+* How to use this README
+  If you want you can make a todo list or clock tasks.
+** Emacs
+  See [[http://orgmode.org/orgcard.txt][this]] guide if you are using Emacs.
+** Vim
+  See [[https://raw.githubusercontent.com/jceb/vim-orgmode/master/doc/orgguide.txt][this]] guide if you are using Vim.
+* Todo list
+** This file.
+*** TODO Set up basics
+    CLOCK: [2015-08-02 Sun 17:37]--[2015-08-02 Sun 17:37] =>  0:00
+
