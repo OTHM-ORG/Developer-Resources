@@ -1,3 +1,7 @@
+* Developer-Resources
+  This repository contains useful information for project developers.
+  The BADGES.md should contain all badges used or that could be used in othm.
+  This file contains a todo list and organization information.
 * How to use this README
   If you want you can make a todo list or clock tasks.
 ** Emacs
@@ -9,3 +13,10 @@
 *** TODO Set up basics
     CLOCK: [2015-08-02 Sun 17:37]--[2015-08-02 Sun 17:37] =>  0:00
 
+** Hashmap
+*** TODO Make hashmap avoid allocating lists on rehash.
+*** TODO Make a site for hashmap.
+*** TODO Add hasmap site to the project site.
+*** TODO Seperate reusable data structures into header from hashmap.
+** Symbols
+*** TODO Explain how to create new symbols.
