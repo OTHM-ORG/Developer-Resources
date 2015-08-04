@@ -30,3 +30,6 @@
 ![Stability unknown](https://img.shields.io/badge/stability-unknown-lightgrey.svg)
 ![Stability questionable](https://img.shields.io/badge/stability-questionable-ff69b4.svg)
 ![Stability mysterios](https://img.shields.io/badge/stability-mysterious-800080.svg)
+
+### Operating systems
+<a title="By Larry Ewing, Simon Budig, Anja Gerwinski ([1]) [Attribution], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ATux.svg"><img width="64" alt="Tux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/64px-Tux.svg.png"/></a>
